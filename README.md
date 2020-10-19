@@ -1,9 +1,14 @@
 # Light/Dark Mode
-Websites that have Dark Mode are my favorite. It is less painful on the eyes. So I created this project to play around with toggling between light/dark. It is a mock site, so please excuse the lame placeholders. ^__^
+Websites that have Dark Mode are my favorite. It is less painful on the eyes. So I created this project to play around with toggling between light/dark themes. It is a mock site, so please excuse the placeholder text and images. ^__^
 
 
 ## About
-This is a mock website that toggles between light and dark mode. Please excuse the low quality gif. Will have this available via Github Pages.
+This is a mock website that toggles between light and dark mode. Below is a low quality gif, but I will have this available via Github Pages in case blurry gifs aren't your thing.
+
+## TODO:
+*Notes to a future Hana that are put directly in the README to shame me for not doing it now v __ v Personal projects -> whenever I get time... and not playing around with something else I'm curious about.*
+- Fix navigation/toggle bar to be responsive
+- Update README with a demo giphy that has better pixel quality / higher frame rate. 
 
 
 
@@ -13,11 +18,11 @@ This is a mock website that toggles between light and dark mode. Please excuse t
 
 
 ## Resources Used
-[Hero Patterns - SVG used for background](https://www.heropatterns.com)
+[Hero Patterns - SVG for Background](https://www.heropatterns.com)
 
-[unDraw - Images in 'About' section](https://undraw.co/illustrations)
+[unDraw - Images in 'About' Section](https://undraw.co/illustrations)
 
-[Font Awesome - social media icons in 'Contact' section](https://fontawesome.com/)
+[Font Awesome - Social Media Icons in 'Contact' Section](https://fontawesome.com/)
 
 
 ## Finally
