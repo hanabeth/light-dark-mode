@@ -3,7 +3,7 @@ Websites that have Dark Mode are my favorite. It is less painful on the eyes. So
 
 
 ## About
-This is a mock website that toggles between light and dark mode. Please excuse the low quality gif. Will have this available via Github Page.
+This is a mock website that toggles between light and dark mode. Please excuse the low quality gif. Will have this available via Github Pages.
 
 
 
